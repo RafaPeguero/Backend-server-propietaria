@@ -154,13 +154,13 @@ namespace Facturacion.Modal {
                     .WithMany (p => p.Detallesfactura)
                     .HasForeignKey (d => d.ArticuloId)
                     .OnDelete (DeleteBehavior.ClientSetNull)
-                    .HasConstraintName ("detallesfactura_ibfk_2");
+                    .HasConstraintName ("detallesfactura_ibfk_1");
 
                 entity.HasOne (d => d.Factura)
                     .WithMany (p => p.Detallesfactura)
                     .HasForeignKey (d => d.FacturaId)
                     .OnDelete (DeleteBehavior.ClientSetNull)
-                    .HasConstraintName ("detallesfactura_ibfk_1");
+                    .HasConstraintName ("detallesfactura_ibfk_2");
             });
 
             modelBuilder.Entity<Facturacion> (entity => {
