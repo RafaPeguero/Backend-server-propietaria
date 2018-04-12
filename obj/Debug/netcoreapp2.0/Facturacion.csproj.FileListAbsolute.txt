@@ -1,0 +1,33 @@
+C:\Users\sperez\source\repos\Propietaria-OpenSource\Facturacion\bin\Debug\netcoreapp2.0\Facturacion.deps.json
+C:\Users\sperez\source\repos\Propietaria-OpenSource\Facturacion\bin\Debug\netcoreapp2.0\Facturacion.runtimeconfig.json
+C:\Users\sperez\source\repos\Propietaria-OpenSource\Facturacion\bin\Debug\netcoreapp2.0\Facturacion.runtimeconfig.dev.json
+C:\Users\sperez\source\repos\Propietaria-OpenSource\Facturacion\bin\Debug\netcoreapp2.0\Facturacion.dll
+C:\Users\sperez\source\repos\Propietaria-OpenSource\Facturacion\bin\Debug\netcoreapp2.0\Facturacion.pdb
+C:\Users\sperez\source\repos\Propietaria-OpenSource\Facturacion\obj\Debug\netcoreapp2.0\Facturacion.csproj.CoreCompileInputs.cache
+C:\Users\sperez\source\repos\Propietaria-OpenSource\Facturacion\obj\Debug\netcoreapp2.0\Facturacion.AssemblyInfoInputs.cache
+C:\Users\sperez\source\repos\Propietaria-OpenSource\Facturacion\obj\Debug\netcoreapp2.0\Facturacion.AssemblyInfo.cs
+C:\Users\sperez\source\repos\Propietaria-OpenSource\Facturacion\obj\Debug\netcoreapp2.0\Facturacion.dll
+C:\Users\sperez\source\repos\Propietaria-OpenSource\Facturacion\obj\Debug\netcoreapp2.0\Facturacion.pdb
+C:\Users\sperez\source\repos\Propietaria-OpenSource\Facturacion\obj\Debug\netcoreapp2.0\Facturacion.csprojResolveAssemblyReference.cache
+C:\Users\sebas\source\repos\Propietaria-OpenSource\Facturacion\bin\Debug\netcoreapp2.0\Facturacion.deps.json
+C:\Users\sebas\source\repos\Propietaria-OpenSource\Facturacion\bin\Debug\netcoreapp2.0\Facturacion.runtimeconfig.json
+C:\Users\sebas\source\repos\Propietaria-OpenSource\Facturacion\bin\Debug\netcoreapp2.0\Facturacion.runtimeconfig.dev.json
+C:\Users\sebas\source\repos\Propietaria-OpenSource\Facturacion\bin\Debug\netcoreapp2.0\Facturacion.dll
+C:\Users\sebas\source\repos\Propietaria-OpenSource\Facturacion\bin\Debug\netcoreapp2.0\Facturacion.pdb
+C:\Users\sebas\source\repos\Propietaria-OpenSource\Facturacion\obj\Debug\netcoreapp2.0\Facturacion.csprojResolveAssemblyReference.cache
+C:\Users\sebas\source\repos\Propietaria-OpenSource\Facturacion\obj\Debug\netcoreapp2.0\Facturacion.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\Propietaria-OpenSource\Facturacion\obj\Debug\netcoreapp2.0\Facturacion.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\Propietaria-OpenSource\Facturacion\obj\Debug\netcoreapp2.0\Facturacion.AssemblyInfo.cs
+C:\Users\sebas\source\repos\Propietaria-OpenSource\Facturacion\obj\Debug\netcoreapp2.0\Facturacion.dll
+C:\Users\sebas\source\repos\Propietaria-OpenSource\Facturacion\obj\Debug\netcoreapp2.0\Facturacion.pdb
+C:\Users\Rafael Peguero\Desktop\Propietaria\Facturacion\bin\Debug\netcoreapp2.0\Facturacion.deps.json
+C:\Users\Rafael Peguero\Desktop\Propietaria\Facturacion\bin\Debug\netcoreapp2.0\Facturacion.runtimeconfig.json
+C:\Users\Rafael Peguero\Desktop\Propietaria\Facturacion\bin\Debug\netcoreapp2.0\Facturacion.runtimeconfig.dev.json
+C:\Users\Rafael Peguero\Desktop\Propietaria\Facturacion\bin\Debug\netcoreapp2.0\Facturacion.dll
+C:\Users\Rafael Peguero\Desktop\Propietaria\Facturacion\bin\Debug\netcoreapp2.0\Facturacion.pdb
+C:\Users\Rafael Peguero\Desktop\Propietaria\Facturacion\obj\Debug\netcoreapp2.0\Facturacion.csprojResolveAssemblyReference.cache
+C:\Users\Rafael Peguero\Desktop\Propietaria\Facturacion\obj\Debug\netcoreapp2.0\Facturacion.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Peguero\Desktop\Propietaria\Facturacion\obj\Debug\netcoreapp2.0\Facturacion.AssemblyInfoInputs.cache
+C:\Users\Rafael Peguero\Desktop\Propietaria\Facturacion\obj\Debug\netcoreapp2.0\Facturacion.AssemblyInfo.cs
+C:\Users\Rafael Peguero\Desktop\Propietaria\Facturacion\obj\Debug\netcoreapp2.0\Facturacion.dll
+C:\Users\Rafael Peguero\Desktop\Propietaria\Facturacion\obj\Debug\netcoreapp2.0\Facturacion.pdb
