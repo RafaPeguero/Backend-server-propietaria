@@ -11,7 +11,6 @@ using Microsoft.AspNetCore.Cors;
 
 namespace Facturacion.Controllers
 {
-    [EnableCors("Access-Control-Allow-Origin")]
     [Produces("application/json")]
     [Route("api/Articulos")]
     public class ArticulosController : Controller
@@ -24,7 +23,6 @@ namespace Facturacion.Controllers
         }
 
         // GET: api/Articulos
-        [EnableCors("Access-Control-Allow-Origin")]
         [HttpGet]
         public IEnumerable<Articulos> GetArticulos()
         {
@@ -32,7 +30,6 @@ namespace Facturacion.Controllers
         }
 
         // GET: api/Articulos/5
-        [EnableCors("Access-Control-Allow-Origin")]
         [HttpGet("{id}")]
         public async Task<IActionResult> GetArticulos([FromRoute] int id)
         {
@@ -52,7 +49,6 @@ namespace Facturacion.Controllers
         }
 
         // PUT: api/Articulos/5
-        [EnableCors("Access-Control-Allow-Origin")]
         [HttpPut("{id}")]
         public async Task<IActionResult> PutArticulos([FromRoute] int id, [FromBody] Articulos articulos)
         {
@@ -88,7 +84,6 @@ namespace Facturacion.Controllers
         }
 
         // POST: api/Articulos
-        [EnableCors("Access-Control-Allow-Origin")]
         [HttpPost]
         public async Task<IActionResult> PostArticulos([FromBody] Articulos articulos)
         {
@@ -104,7 +99,6 @@ namespace Facturacion.Controllers
         }
 
         // DELETE: api/Articulos/5
-        [EnableCors("Access-Control-Allow-Origin")]
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteArticulos([FromRoute] int id)
         {

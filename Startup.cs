@@ -23,12 +23,7 @@ namespace Facturacion {
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices (IServiceCollection services) {
-        services.AddCors(o => o.AddPolicy("Access-Control-Allow-Origin", builder =>
-        {
-                builder.AllowAnyOrigin()
-                    .AllowAnyMethod()
-                    .AllowAnyHeader();
-        }));
+            services.AddCors();
             services.AddMvc ();
             var connection = @"server=localhost;port=3306;user=root;password=123456;database=facturacion";
             services.AddDbContext<facturacionContext> (options => options.UseMySql (connection));
@@ -39,8 +34,10 @@ namespace Facturacion {
             if (env.IsDevelopment ()) {
                 app.UseDeveloperExceptionPage ();
             }
-            //  app.UseCors(
-            // options => options.WithOrigins("http://localhost:4200"));
+             app.UseCors(builder => builder
+             .AllowAnyOrigin()
+                    .AllowAnyMethod()
+                    .AllowAnyHeader());
 
             app.UseMvc ();
         }

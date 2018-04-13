@@ -9,7 +9,7 @@ using Facturacion.Modal;
 using Microsoft.AspNetCore.Cors;
 namespace Facturacion.Controllers
 {
-    [EnableCors("Access-Control-Allow-Origin")]
+
     [Produces("application/json")]
     [Route("api/Clientes")]
     public class ClientesController : Controller
